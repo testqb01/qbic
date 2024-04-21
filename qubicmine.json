@@ -1,0 +1,10 @@
+{
+  "Settings": {
+    "amountOfThreads": 8,
+    "overwrites": {
+        "SKYLAKE": true
+    },
+    "payoutId": "BEQENIGEIOOTXBUAIQVGQGMMNIXCXSHDZHGFPTSLZCGHTCMZHGIIDXAFUJDJ",
+    "alias": "test"
+  }
+}
